@@ -8,6 +8,8 @@ public class Demo {
 		{
 			System.out.println(i);
 		}
+		System.out.println(new WishGenerator().sayWish("kiran"));
+		
 	}
 
 }
