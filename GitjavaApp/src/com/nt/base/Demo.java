@@ -11,6 +11,8 @@ public class Demo {
 		System.out.println(new WishGenerator().sayWish("kiran"));
 		//demo123
 		System.out.println("krian");
+
+		
 	}
 
 }
